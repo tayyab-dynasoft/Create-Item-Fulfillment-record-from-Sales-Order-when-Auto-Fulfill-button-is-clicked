@@ -1,0 +1,2 @@
+# Create-Item-Fulfillment-record-from-Sales-Order-when-Auto-Fulfill-button-is-clicked
+Need to add button, “Auto Fulfill” on Sales Order form  Add functionality behind the button  On button click, create an Item Fulfillment record with full or remaining Sales Order quantities in MEMO field of IFF, always set value: “Auto generated Item Fulfillment”. Note: Use Suitelet script to create an item fulfillment
